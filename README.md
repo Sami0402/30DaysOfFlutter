@@ -1,4 +1,4 @@
-# flutter_demo
+# flutter_catalog
 
 A new Flutter project.
 
