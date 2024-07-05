@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 class CatalogModel {
   static final items = [
     Item(id: 1,
